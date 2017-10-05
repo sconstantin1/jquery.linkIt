@@ -3,7 +3,7 @@
 **LinkIt** is a simple jQuery plugin to attach links to elements
 
 ##Version##
-0.3.0
+0.4.0
 
 ##Usage##
 
